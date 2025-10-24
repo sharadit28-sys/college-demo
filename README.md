@@ -1,4 +1,6 @@
 # college-demo
+
 this is my first git repository .
 <br>
-Author - Sharad Katoch
+<br>
+Author - Sharad Katoch (MSIT)
